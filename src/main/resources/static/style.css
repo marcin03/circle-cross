@@ -1,0 +1,13 @@
+.board{
+
+    width: 600px;
+}
+
+.board div{
+
+    width: 33%;
+    float: left;
+    height: 200px;
+    border: 2px #ff5062 solid;
+    box-sizing: border-box;
+}
